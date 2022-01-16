@@ -1,2 +1,2 @@
 # Zencoin
-A cool cryptocurrency 
+A cool cryptocurrency
